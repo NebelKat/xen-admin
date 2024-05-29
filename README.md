@@ -11,7 +11,7 @@ This fork is simply a clutter and anxiety free version which includes the full f
 
 ## ⚡️ Quick start
 
-Setup with docker via [Xen-Admin Docker project]([https://somewhere](https://github.com/NebelKat/xen-admin-docker/))
+Setup with docker via [Xen-Admin Docker project](https://github.com/NebelKat/xen-admin-docker/)
 
 ## 📚 Documentation
 
